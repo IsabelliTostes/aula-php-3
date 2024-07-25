@@ -42,10 +42,24 @@ mostre para usuário 15% deste valor.*/
  mostre para o usuário 5% 
  e 50% deste valo.*/
 
- $pudim=15;
- $calda=20;
- $gula= ($pudim + $calda)*5;
+ $pudim=15 *0.5;
+ $calda= $pudim *0.50;
+ 
+ echo $pudim;
+ echo " $calda <br />\n";
 
- $gula2= ($gula)*50;
+ /*5 – Escreva um algoritmo que leia dois números,
+  calcule o quadrado de cada um, 
+  some os quadrados e mostre o resultado.*/ 
 
- echo " $gula2 <br />\n";
+$guarana= 20;
+$antartica= $guarana **2;
+echo "$antartica <br />\n";
+
+/*6 – Escreva um algoritmo que leia a velocidade de um objeto em m/s
+(metros por segundo), calcule e exiba para o usuário a velocidade em
+km/h.*/ 
+
+$lasanha
+$molhobranco
+

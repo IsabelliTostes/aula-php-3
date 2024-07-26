@@ -60,6 +60,41 @@ echo "$antartica <br />\n";
 (metros por segundo), calcule e exiba para o usuário a velocidade em
 km/h.*/ 
 
-$lasanha
-$molhobranco
+$lasanha= 30 *3.6;
+$frango = $lasanha /3.6;
+
+echo "$lasanha <br />\n";
+echo "$frango <br />\n";
+
+/*7 – Escreva um algoritmo que leia a altura e o peso de uma pessoa,
+calcule o seu IMC (Índice de Massa Corporal) e exiba para o usuário.*/ 
+
+$peso= 75;
+$altura= 1.89;
+$gordurinha= $peso /$altura**2;
+
+
+echo "$gordurinha <br />\n";
+
+/*8 – Escreva um algoritmo que receba um valor,
+ calcule e mostre um desconto de 9%*/
+
+ $loja = 89 -0.9;
+ echo "$loja <br />\n";
+
+ /*9 – Escreva um algoritmo que receba o valor de um produto
+  e calcule um desconto de 7%, 
+  exibindo para o usuário o valor original, 
+  o valor do desconto e o valor com o desconto.*/ 
+
+  $preco= 98;
+  $desc= 98 -0.7;
+    echo "$preco <br />\n";
+    echo "$desc <br />\n";
+
+/*10 – Escreva um algoritmo que calcule e apresente o volume de uma
+caixa retangular por meio da seguinte fórmula: volume = comprimento x
+largura x altura*/ 
+
+
 
